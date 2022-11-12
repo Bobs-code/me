@@ -1,0 +1,22 @@
+# Basic zettel entry
+
+this si the obdy of the zettel (which means "slip")
+
+
+* First bullet
+* Second bullet
+
+Here is some basic body text
+
+1. First
+2. Second
+
+What if I want *italic* or **bold** or ***bolditalic***?
+
+something that looks like `code`
+
+https://google.com
+
+* Reference that is placed at the bottom of the body
+
+    #tag #tag
